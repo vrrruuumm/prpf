@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>pictures</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1<link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+ <table>
+  <tr>
+   <td><img src="C:\Users\KristmundurB\Pictures\Suzuki GS 1000S 79  2.jpg" alt="1978 GS1000s" width="478" height="350"></td>
+   <td><img src="C:\Users\KristmundurB\Pictures\13891907_1772812379653592_5682606077676326987_n.jpg" alt="1982 gsx1100sz" width="478" height="350"></td>
+   <td><img src="C:\Users\KristmundurB\Pictures\1989-Suzuki-GSX-R750a.jpg" alt="1989" gsxr1100" width="478" height="350"></td>
+   <td><img src="C:\Users\KristmundurB\Pictures\1999-Suzuki-GSX-R750a.jpg" alt="1999 gsxr750" width="478" height="350"></td>
+   <td><img src="C:\Users\KristmundurB\Pictures\2004_GSXR1000_blwhite_600.jpg" alt="2004 gsxr1000" width="478" height="350"></td>
+  </tr>
+ </table>
+</body>
+</html>
